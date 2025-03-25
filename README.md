@@ -16,7 +16,6 @@ pip install memprocfs
         "D:\\MCP\\server.py"
       ]
     }
-  }
 }
 ```
 
